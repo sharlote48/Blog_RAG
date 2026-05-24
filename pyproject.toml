@@ -1,0 +1,11 @@
+[project]
+name = "blog-rag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "markdownify>=1.2.2",
+    "playwright>=1.60.0",
+]
